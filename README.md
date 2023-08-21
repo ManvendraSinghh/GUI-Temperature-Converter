@@ -5,5 +5,5 @@
 Welcome to my simple GUI Based Temperature Converter project! It can convert Celsius into Farenheit and vice versa. 🧮✨
 
 Technologies Used
-C++: The core programming language for implementing calculator logic.
+C++: The core programming language for implementing calculator logic.  
 Qt Creator: The integrated development environment (IDE) used to design the graphical user interface.
